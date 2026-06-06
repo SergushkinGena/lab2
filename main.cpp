@@ -27,6 +27,7 @@ int main() {
         fout.close();
     }
 
-    cout << "Файлы успешно созданы!" << endl;
+    cout << "Files created successfully!" << endl;
 
     return 0;
+}
